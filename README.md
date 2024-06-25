@@ -1,12 +1,14 @@
-Simple Task List Application
-Overview
+Simple Task List Application :
+
 The Simple Task List Application is a Java-based GUI application designed to help users manage their tasks efficiently. It provides a user-friendly interface to add, edit, and delete tasks, ensuring that users can keep track of their to-do lists with ease.
 
 Features
+
 Add Tasks: Users can add new tasks to the list.
 Edit Tasks: Users can edit the details of existing tasks.
 Delete Tasks: Users can remove tasks that are no longer needed.
 Task List Display: A clear display of all tasks with their details.
+
 Prerequisites
 Java Development Kit (JDK) 8 or higher
 An Integrated Development Environment (IDE) like IntelliJ IDEA, Eclipse, or NetBeans
